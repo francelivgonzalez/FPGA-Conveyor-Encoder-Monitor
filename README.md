@@ -1,4 +1,5 @@
 # FPGA Conveyor Encoder Monitor
+> Catching unexpected motor stops on FPGA hardware, distinguishing a commanded stop from a sudden loss of motion using quadrature decoding, speed estimation, and serial timing logs.
 
 **Status:** Planned
 **Projected timeline:** August 16-September 30, 2027
